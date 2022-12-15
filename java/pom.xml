@@ -704,7 +704,6 @@
     <module>memory</module>
     <module>vector</module>
     <module>tools</module>
-    <module>adapter/jdbc</module>
     <module>plasma</module>
     <module>flight</module>
     <module>algorithm</module>
